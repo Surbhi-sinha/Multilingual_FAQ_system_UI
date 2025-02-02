@@ -16,8 +16,8 @@ Make sure you have the following installed:
 
 ## 📦 **2. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/faq-system-frontend.git
-cd faq-system-frontend
+[git clone https://github.com/your-username/faq-system-frontend.git](https://github.com/Surbhi-sinha/Multilingual_FAQ_system_UI.git)
+cd Multilingual_FAQ_system_UI
 ```  
 
 ---
