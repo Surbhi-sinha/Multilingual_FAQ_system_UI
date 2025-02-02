@@ -1,6 +1,4 @@
-Here's a concise README for the **Frontend** setup of your FAQ system, covering all key points, including common issues you encountered.  
 
----
 
 # Frontend Setup Guide for FAQ System  
 
